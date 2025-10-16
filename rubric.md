@@ -5,20 +5,15 @@
 
 ## Grading Table
 
-| Criteria | Points Possible | Points Earned | Comments |
+ Criteria | Points Possible | Points Earned | Comments |
 |----------|----------------|---------------|----------|
-| **Technical Completion** | | | |
-| GitHub Setup & Repository Changes | 2 |2  | |
-| Profile Repository Creation | 2 | 2 | |
-| **Writeup Quality** | | | |
-| Question 1: Git vs GitHub | 1 | 1 | |
-| Question 2: Committing & Pushing | 1 | 1 | |
-| Question 3: Repositories | 1 | 1 | |
-| AI Excitement Response | 1 | 1 | |
-| **Communication & Professionalism** | | | |
-| Writing Quality | 1 | 1 | |
-| Following Directions | 1 | 1 | |
-| **TOTAL** | **10** | 10 | |
+| **Action Functions** | 9 | 9 | |
+| **Core System Functions** | | | |
+| search_pa_list Implementation | 7 | 7 | |
+| query_loop Function | 1 | 1 | |
+| **Creative Additions** | | | |
+| Database & Pattern Extensions | 3 | 3 | |
+| **TOTAL** | **20** | 20 | |
 
 ---
 
